@@ -1,0 +1,16 @@
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\bin\Debug\net5.0\DPRN2_U2_EA_ANEA.exe
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\bin\Debug\net5.0\DPRN2_U2_EA_ANEA.deps.json
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\bin\Debug\net5.0\DPRN2_U2_EA_ANEA.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\bin\Debug\net5.0\DPRN2_U2_EA_ANEA.runtimeconfig.dev.json
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\bin\Debug\net5.0\DPRN2_U2_EA_ANEA.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\bin\Debug\net5.0\ref\DPRN2_U2_EA_ANEA.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\bin\Debug\net5.0\DPRN2_U2_EA_ANEA.pdb
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\DPRN2_U2_EA_ANEA.csprojAssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\DPRN2_U2_EA_ANEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\DPRN2_U2_EA_ANEA.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\DPRN2_U2_EA_ANEA.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\DPRN2_U2_EA_ANEA.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\DPRN2_U2_EA_ANEA.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\ref\DPRN2_U2_EA_ANEA.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\DPRN2_U2_EA_ANEA.pdb
+C:\Users\anton\OneDrive\Documentos\GitHub\DPRN2_U2_EA_ANEA\obj\Debug\net5.0\DPRN2_U2_EA_ANEA.genruntimeconfig.cache
